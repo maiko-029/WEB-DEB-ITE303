@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar{
+
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2em;
+    background-color: rgb(168, 168, 172);
+    padding: 20px;
+
+}
+
+
+
+  
+.menu ul{
+    
+    padding: 20px 0 20px 0;
+    text-align: center;
+    background-color: #6b6b6b;
+    margin-top: 0;
+    
+       
+}
+
+.menu ul li {
+
+    display: inline;
+    
+}
+.menu ul li a{
+
+    font-size: 1.5em;
+    display: inline;
+    text-decoration: none;
+    margin-inline: 2rem;
+    font-weight: bold;
+    color: black;
+}
+
+.about_me{
+
+    display: flex;
+    
+    
+ }
+ .profile{
+
+     width: 200px;
+     height: 200px;
+     border-radius: 10px;
+ 
+ }
+ .details{
+    
+     padding-left: 10px;
+     line-height: 20px;
+
+ }
+ .details span{
+
+     font-weight: bold;
+     text-transform: uppercase;
+
+ }
+ .discription{
+
+     column-count: 2;
+     border-bottom: 1px solid black ;
+     padding-bottom: 10px;
+
+ }
+ .discription p{
+
+     text-align: justify;
+
+ }
+ .my_hobbies{
+
+     column-count: 2;
+     padding-bottom: 20px;
+     border-bottom: 1px solid black;
+
+ }
+
+ 
+ .band{
+
+     display: flex;
+
+ }
+ .band img{
+    
+     padding-right: 10px;
+     width: 200px;
+     height: 200px;
+
+ }
+ .food{
+
+     display: flex;
+
+ }
+ .food img{
+
+     width: 200px;
+     height: 200px;
+     padding-right: 10px;
+
+ }
+ .place{
+
+     display: flex;
+     border-bottom: 1px solid black;
+     padding-bottom: 30px;
+
+ }
+ .place img{
+
+     width: 200px;
+     height: 150px;
+     padding-right: 10px;
+     
+ }
+ footer P{
+
+     text-align: center;
+     font-size: 30px;
+
+ }
